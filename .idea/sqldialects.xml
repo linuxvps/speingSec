@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="jar://$PROJECT_DIR$/../../rep/org/springframework/security/spring-security-core/6.2.2/spring-security-core-6.2.2.jar!/org/springframework/security/core/userdetails/jdbc/users.ddl" dialect="MySQL" />
+    <file url="PROJECT" dialect="MySQL" />
+  </component>
+</project>
